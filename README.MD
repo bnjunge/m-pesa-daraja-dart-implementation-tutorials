@@ -4,9 +4,9 @@ Hello Developers! Today it all about dart and the Flutter Developers
 Flutter community is growing! So I thought I could sneak in and give you a heads up on what to expect soon!
 
 ### Contents
-- [*] M-PESA (Daraja API)STK Push
-- [*] M-PESA (Daraja API)Register URLs
-- [*] M-PESA (Daraja API)Simulate Transactions
+- [x] M-PESA (Daraja API)STK Push
+- [x] M-PESA (Daraja API)Register URLs
+- [x] M-PESA (Daraja API)Simulate Transactions
 - [ ] M-PESA (Daraja API)B2C
 - [ ] M-PESA (Daraja API)Reverse Transaction
 - [ ] M-PESA (Daraja API)Check Transaction Status
